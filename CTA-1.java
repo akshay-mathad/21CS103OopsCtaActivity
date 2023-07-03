@@ -1,4 +1,3 @@
-package cse.oop;
 
 //Package imports
 import java.awt.Color;
